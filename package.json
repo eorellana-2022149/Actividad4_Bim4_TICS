@@ -1,0 +1,27 @@
+{
+  "name": "actividad4_bim4_tics",
+  "version": "1.0.0",
+  "description": "Acticidad 4 del cuarto bimestre de TICS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eorellana-2022149/Actividad4_Bim4_TICS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eorellana-2022149/Actividad4_Bim4_TICS/issues"
+  },
+  "homepage": "https://github.com/eorellana-2022149/Actividad4_Bim4_TICS#readme",
+  "devDependencies": {
+    "eslint": "^10.11.0",
+    "globals": "^17.12.0",
+    "husky": "^9.1.7"
+  }
+}
